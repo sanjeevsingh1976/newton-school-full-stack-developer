@@ -1,0 +1,33 @@
+<table>
+    <thead>
+        <th>name</th>
+        <th>roll number</th>
+    </thead>
+    <tbody>
+    <tr>
+        <td>sanjeev singh</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>yogi</td>
+        <td>28</td>
+    </tr>
+    <tr>
+        <td>modi</td>
+        <td>99</td>
+    </tr>
+    </tbody>
+</table>
+
+<h1>List of medias</h1>
+<ol>
+    <li> <img src="https://picsum.photos/id/123/200/300" alt="test"></li>
+    <li>
+        <video>
+        <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+    </video>
+    </li>
+    <li>
+        <audio controls src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" ></audio>
+    </li>
+</ol>
