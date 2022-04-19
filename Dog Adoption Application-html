@@ -1,0 +1,13 @@
+<form>
+    <input type="text"placeholder="Name"id="name">
+    <input type="text"placeholder="Phone Number"id="phone">
+    <input type="text"placeholder="Address"id="address">
+    <label> Have you ever lived with a Dog before?</label>
+    <input type="checkbox"id="checkbox"value="Have you ever lived with a Dog before?">
+    <select id="multiSelect"">
+    <option>bully
+    <option>german
+    <option>pug
+</select>
+    <input type="submit" id="submit" value="Submit">
+</form>
