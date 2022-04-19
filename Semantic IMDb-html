@@ -1,0 +1,21 @@
+<header>
+    the kashmir files
+</header>
+<nav>
+    <a href="#actor"id="nav-actor">Actors</a>
+    <a href="#quote"id="nav-quote">Quotes</a>
+</nav>
+<summary>real facts about kashmir hindu how they got killed in 1990</summary>
+<section id="actor">
+    darshan kumar
+    aman iqubal
+    anupuman kher
+</section>
+<section id="quote">
+    leave,convert or die
+</section>
+<aside>8.9</aside>
+
+<footer>Produced by: Vivek Agnihotri
+
+</footer>
