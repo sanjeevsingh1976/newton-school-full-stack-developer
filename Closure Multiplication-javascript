@@ -1,0 +1,7 @@
+function mul (x) {
+    return function (y) { // anonymous function
+        return function (z) { // anonymous function
+        console.log(x*y*z);
+        };
+    };
+}
