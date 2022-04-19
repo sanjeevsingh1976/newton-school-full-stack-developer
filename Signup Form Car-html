@@ -1,0 +1,24 @@
+<form method="POST">
+    <label for="name">Name</label>
+    <input type="text" placeholder="Name" id="name" required>
+    <label for="email">Email</label>
+    <input type="text" placeholder="Email" id="email" required>
+    <label for="dob">Gender</label>
+    <label>Gender</label>
+            Male: <input type="radio" name="gender" id="dob" value="Male" required/>
+            Female: <input type="radio" name="gender" id="dob" value="Female" required/>
+    <label for="cars">Car Brands</label>
+    <select id="cars" name="Cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+    </select>
+    <label for="age">Age</label>
+    <input type="text" placeholder="age" id="age" name="Age" required>
+    <label for="dob">Dob</label>
+    <input type="date" id="dob" name="Dob" required>
+    <label for="password">Password</label>
+    <input type="password" placeholder="Password" id="password" name="password" required>
+    <button type="submit" value="Submit">submit</button>
+
+</form>
