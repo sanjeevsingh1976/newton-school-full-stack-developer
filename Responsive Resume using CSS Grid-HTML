@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Resume</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <main class="main-content" contenteditable="true">
+      <section class="left-section">
+        <div class="left-content">
+          <div class="profile details">
+            <img
+              class="profile-image"
+              src="https://i.pinimg.com/736x/77/28/ef/7728efc22393a8605664b50205c79e6b.jpg"
+              alt="Profile image"
+            />
+          </div>
+          <h2 class="name">SANJEEV SINGH</h2>
+          <h4 class="designation">Fullstack-developer</h4>
+          <div class="description">
+            full stack web developer || mern stack developer web developer
+          </div>
+          <div class="contact-item">
+            <div class="icon">
+              <a href="https://www.linkedin.com/feed/">
+                <img
+                  src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG27.png"
+                  alt="LinkedIn"
+                />
+              </a>
+
+              <a href="https://www.instagram.com/_sanjeev__rajput/">
+                <img
+                  src="https://image.similarpng.com/very-thumbnail/2020/05/Glossy-Instagram-icon-PNG.png"
+                  alt="Instagram"
+                />
+              </a>
+
+              <a href="https://github.com/sanjeevsingh1976">
+                <img
+                  src="https://e7.pngegg.com/pngimages/266/559/png-clipart-cat-stencil-social-media-github-computer-icons-logo-github-mammal-cat-like-mammal.png"
+                  alt="Github"
+                />
+              </a>
+            </div>
+            <div class="skills">Skills Title</div>
+            <div class="skill-name">Skill Name</div>
+            <div class="">HTML</div>
+            <div class="progress-bar bar-1"></div>
+            <div class="">CSS</div>
+            <div class="progress-bar bar-2"></div>
+            <div class="">JAVA</div>
+            <div class="progress-bar bar-3"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="right-section">
+        <div class="right-main-content">
+          <div class="about-me">
+            <h1 class="right-title">ABOUT ME</h1>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod,
+            impedit? Consectetur, autem atque ut inventore saepe, explicabo
+            vitae vero temporibus, sunt sit praesentium eos neque magnam
+            doloribus dignissimos nulla unde.
+          </div>
+          <div class="education">
+            <h1 class="right-title">Education</h1>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod,
+            impedit? Consectetur, autem atque ut inventore saepe, explicabo
+            vitae vero temporibus, sunt sit praesentium eos neque magnam
+            doloribus dignissimos nulla unde.
+          </div>
+          <div class="experience">
+            <h1 class="right-title">Experience</h1>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod,
+            impedit? Consectetur, autem atque ut inventore saepe, explicabo
+            vitae vero temporibus, sunt sit praesentium eos neque magnam
+            doloribus dignissimos nulla unde.
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
