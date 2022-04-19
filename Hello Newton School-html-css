@@ -1,0 +1,22 @@
+HTML
+--------------------------
+<body>
+    <main class="newton" id="school">
+        <p class="hello-newton">
+          Hello Newton School  
+        </p>
+    </main>
+</body>
+--------------------------
+CSS
+--------------------------
+main {
+  width: 150px;
+  height: 150px;
+ background-color:black;
+}
+p{
+  color: white;
+  margin-left: 32px;
+  padding: 10px;
+}
