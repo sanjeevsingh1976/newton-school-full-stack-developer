@@ -1,0 +1,17 @@
+<h1>Feedback Form</h1>
+<form method="POST">
+    <label for="name">Name</label>
+    <input id="name" type="text" name="type" placeholder="Name" minlength="3" maxlength="50" required>
+    <label for="portfolio">Portfolio</label>
+    <input type="URL" id="portfolio" name="URL" placeholder="Portfolio Url" required>
+    <label for="favColor">favourite colour</label>
+   <!--  <select  id="favcolor" required>
+       <option value="Red">Red</option>
+        <option value="blue">Bule</option>
+        <option value="Black">Black</option>
+        <option value="Green">Green</option>
+    </select>-->
+    <input type='color' id="favColor">
+    <label for="likeness">Likeness</label>
+    <input type="range" min="1" max="100" class="slider" id="likeness" required>
+</form>
