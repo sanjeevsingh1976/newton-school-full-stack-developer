@@ -1,0 +1,28 @@
+<form method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" placeholder="Name" name="name" required>
+    <label for="email">Email</label>
+    <input type="email" placeholder="Email" id="email" name="email" required>
+    <label for="gender">male</label>
+    <input type="radio" id="gender" name="gender" required>
+    <label for="gender">female</label>
+    <input type="radio" id="gender" name="gender" required>
+    <label for="laptop">laptops brands</label>
+    <select id="laptop" name="laptop">
+        <option value="Apple">Apple<option>
+        <option value="Asus">Asus<option>
+        <option value="HP">HP<option>
+    </select>
+    <label for="age">Age</label>
+    <input type="text" id="age" name="age" required>
+    <label for="dob">Dob</label>
+    <input type="date" id="dob" name="dob" required>
+    <label for="password">Password</label>
+    <input type="password" id="password" name="-password" required>
+    <label for="portfolio">website URL</label>
+
+    <input type="url" name="portfolio" id="portfolio"
+       placeholder="portfolio URL"
+       required>
+    <button type="submit" value="submit">submit</button>
+</form>
