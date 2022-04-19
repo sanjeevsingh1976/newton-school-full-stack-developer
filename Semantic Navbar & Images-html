@@ -1,0 +1,18 @@
+<body>
+    
+    <nav>
+        <ul>
+           <li><a href="https://i.pinimg.com/736x/77/28/ef/7728efc22393a8605664b50205c79e6b.jpg">Home</a></li>
+            <li><a href="https://www.google.com/search?q=birds&sxsrf=APq-WBvX3AcgVDecR5bBpFFQANprst5QYA:1647800275607&tbm=isch&source=iu&ictx=1&vet=1&fir=a7k0IVUCWYZSHM%252CV0pb28ZHwU8KmM%252C_%253BJc1UdyBTmUbJrM%252CHlYRE83A2Xoa_M%252C_%253Ba8ZKlnVNYy02MM%252CeFdh30Jjpqr8QM%252C_%253BSAc0q5PLxTorXM%252CPWcAke3khJRVhM%252C_%253B8JgZDjm3s0diZM%252CgCcAwK3vzi_iJM%252C_%253BnI4rM2VhKDj75M%252CJfwdM8Lzjhx1IM%252C_%253B3MB7TqTdiWCLMM%252C4XSUrhz0bw8HIM%252C_&usg=AI4_-kQDUA5Og6x-HlxiSRNqsK_hBaASPg&sa=X&ved=2ahUKEwiwkNqwptX2AhXk63MBHVqHCiAQ_h16BAgnEAE#imgrc=Jc1UdyBTmUbJrM">About us</a></li>
+            <li><a href="https://www.google.com/search?q=birds&sxsrf=APq-WBvX3AcgVDecR5bBpFFQANprst5QYA:1647800275607&tbm=isch&source=iu&ictx=1&vet=1&fir=a7k0IVUCWYZSHM%252CV0pb28ZHwU8KmM%252C_%253BJc1UdyBTmUbJrM%252CHlYRE83A2Xoa_M%252C_%253Ba8ZKlnVNYy02MM%252CeFdh30Jjpqr8QM%252C_%253BSAc0q5PLxTorXM%252CPWcAke3khJRVhM%252C_%253B8JgZDjm3s0diZM%252CgCcAwK3vzi_iJM%252C_%253BnI4rM2VhKDj75M%252CJfwdM8Lzjhx1IM%252C_%253B3MB7TqTdiWCLMM%252C4XSUrhz0bw8HIM%252C_&usg=AI4_-kQDUA5Og6x-HlxiSRNqsK_hBaASPg&sa=X&ved=2ahUKEwiwkNqwptX2AhXk63MBHVqHCiAQ_h16BAgnEAE#imgrc=cmguYE1DU71D9M">Contact us</a></li>
+        </ul>
+    </nav>
+    
+    <h1>3 random images</h1>
+    <img src="https://picsum.photos/id/123/200/300"alt="image of water drops">
+    <h1>3 random images</h1>
+    <img src="https://picsum.photos/id/124/200/300"alt="image of ocean">
+    <h1>3 random images</h1>
+    <img src="https://picsum.photos/id/125/200/300"alt="image of land ">
+
+</body>
