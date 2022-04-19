@@ -1,0 +1,10 @@
+function countBy(initial){
+    // return the output using return keyword
+    // do not console.log it
+    let sum = initial;
+    function inner_fn(num) {
+        sum =  sum + num;
+         return sum
+    }
+    return inner_fn;
+}
