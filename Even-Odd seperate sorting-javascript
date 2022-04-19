@@ -1,0 +1,19 @@
+// You need to return sorted array, not string
+// arr: input array
+// arrSize: size of array
+function sortEvenOdd(arr, arrSize)
+  {
+    var odd =[];
+    var even = [];
+      for(var i = 0; i<arr.length;i++){
+        if(arr[i]%2==0){
+          even.push(arr[i]);
+        }else{
+          odd.push(arr[i]);
+        }
+      }   
+      even.sort((x,y)=>(x-y));
+      odd.sort((x,y)=>(y-x));
+      var final_arr = odd.concat(even);
+      return final_arr;    
+  }
