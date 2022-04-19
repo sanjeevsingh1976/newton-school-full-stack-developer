@@ -1,0 +1,20 @@
+
+HTML
+-------------------------------------------
+-------------------------------------------
+<img class="moviePic" src="https://movieposters2.com/images/1581046-b.jpg">
+<p class="movieDetail">The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry.</p>
+-------------------------------------------
+CSS
+-------------------------------------------
+.moviePic {
+    height: 720px;
+    width: 960px;
+    opacity: 0.5;
+}
+.movieDetail{
+    top: 50px;
+    width: 500px;
+    text-align: center;
+    font-size: 20px;
+}
