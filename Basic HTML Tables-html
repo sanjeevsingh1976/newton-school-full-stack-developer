@@ -1,0 +1,14 @@
+<table>
+    <thead>
+        <th>name</th>
+        <th>roll number</th>
+    </thead>
+    <tr>
+        <td>sanjeev singh</td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td>lmkv</td>
+        <td>28</td>
+    </tr>
+</table>
