@@ -1,0 +1,24 @@
+<form method="POST">
+    <label for="name"> Name</label>
+    <input type="text" id="name" placeholder="Name" required>
+    <label for="email"> Name</label>
+    <input id="email" placeholder="Email" type="text" required>
+    <label for="gender"> male</label>
+    <input type="radio" id="gender" name="gender" required> 
+    <label for="gender"> female</label>
+    <input type="radio" id="gender" name="gender" required>
+    <label for="cars"> car brand</label>
+    <select id="cars" name="cars">
+        <option value="BMW">BMW</option>
+        <option value="Audi">Audi</option>
+        <option value="Merecedez">Mercedez</option>
+    </select>
+    <label for="carage"> Car Age</label>
+    <input type="text" id="carage" name="carage" required>
+    <label for="dop"> Date of Purchase</label>
+    <input type="date" id="dop" name="dop" required>
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password" placeholder="Password" required>
+    <button type="submit" value="submit">Submit</button>
+
+</form>
