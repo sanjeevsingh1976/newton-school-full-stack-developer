@@ -1,0 +1,10 @@
+<ol>
+    <li data-ns-test="shoppingList">mobile phone</li>
+    <li data-ns-test="shoppingList">car</li>
+    <li data-ns-test="shoppingList">superbike</li>
+</ol>
+<ul>
+    <li data-ns-test="holidayList">bangkok</li>
+    <li data-ns-test="holidayList">dubai</li>
+    <li data-ns-test="holidayList">goa</li>
+</ul>
