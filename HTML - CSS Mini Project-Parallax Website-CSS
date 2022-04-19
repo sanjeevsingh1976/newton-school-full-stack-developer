@@ -1,0 +1,179 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.background-1{
+
+  height: 100vh;
+  background-image: url("nyc-zoom-background.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+  margin: 0px;
+  opacity: 0.6;
+
+}
+.h1{
+    position: absolute;
+    text-align: center;
+    font-size: 27px;
+    letter-spacing: 8px;
+    color:#000;
+    top: 45%;
+    text-transform: uppercase;
+    padding:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #111;
+    color: #fff;
+    font-family: "lato",sans-serif;
+    margin-left: 39%;
+    opacity: 0.9;
+
+}
+.h2{
+      color: #666;
+ font-size: 1.5rem;
+  padding-top: 5px;
+  text-align: center;
+  margin-top: 50px;
+  font-family: "lato", sans-serif;
+}
+.p-1{
+  margin-top: 20px;
+  color: #666;
+  padding-bottom: 50px;
+  word-spacing: 0.5em;
+  font-size: 1rem;
+  font-family: "lato", sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.background-2{
+  padding-top: 160px;
+  background-image: url("nyc-zoom-backgroun.jpg");
+  min-height: 300px;
+  opacity: 0.6;
+   margin: 0px;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.h3{
+
+  color: white;
+  font-weight: lighter;
+ font-size: 1.5rem;
+  padding-top: 5px;
+  text-align: center;
+  margin-top: 50px;
+  font-family: "lato", sans-serif;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.div-3{
+  padding-top: 40px;
+    margin-top: 0px;
+    background-color: #282e34;
+  color: white;
+  padding-bottom: 50px;
+  word-spacing: 0.5em;
+  font-size: 1rem;
+  font-family: "lato", sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+.second{
+  padding-top: 5px;
+       color: white;
+ font-size: 1.5rem;
+  text-align: center;
+  margin-top: 15px;
+  font-family: "lato", sans-serif;
+}
+.p-2{
+    margin-top: 20px;
+}
+.background-3{
+  padding-top: 160px;
+  background-image: url("nyc-zoom-backgrou.jpg");
+  min-height: 300px;
+  opacity: 0.6;
+   margin: 0px;
+  background-size:cover;
+  background-attachment: fixed;
+}
+.h4{
+
+  color: white;
+  font-weight: lighter;
+ font-size: 1.5rem;
+  padding-top: 5px;
+  text-align: center;
+  margin-top: 50px;
+  font-family: "lato", sans-serif;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.div-4{
+  padding-top: 40px;
+    margin-top: 0px;
+    background-color: #282e34;
+  color: white;
+  padding-bottom: 50px;
+  word-spacing: 0.5em;
+  font-size: 1rem;
+  font-family: "lato", sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+.third{
+  padding-top: 5px;
+       color: white;
+ font-size: 1.5rem;
+  text-align: center;
+  margin-top: 15px;
+  font-family: "lato", sans-serif;
+}
+.p-3{
+    margin-top: 20px;
+}
+.background-4{
+
+  height: 100vh;
+  background-image: url("nyc-zoom-background.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+  margin: 0px;
+  opacity: 0.6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+.h9{
+font-size: 27px;
+    letter-spacing: 8px;
+    color:#000;
+    top: 45%;
+    text-transform: uppercase;
+    padding:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #111;
+    color: #fff;
+    font-family: "lato",sans-serif;
+    margin-left: 0%;
+    opacity: 0.9;
+}
+@media(max-width:568px){
+  .background-1, .background-2, .background-3{
+    background-attachment:scroll;
+  }
+}
+/*code by sanjeev rajput*/
